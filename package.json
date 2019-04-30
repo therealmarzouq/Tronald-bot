@@ -1,0 +1,15 @@
+{
+  "name": "tronaldbot",
+  "version": "1.0.0",
+  "description": "A slack bot to get random Donald trumps or rather Tronald Dumps quotes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Marzouq Mohd",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.2.0"
+  }
+}
